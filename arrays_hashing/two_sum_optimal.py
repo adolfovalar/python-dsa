@@ -2,6 +2,7 @@
 Problem: Two Sum
 Time Complexity: O(n)
 Space Complexity: O(n)
+Objetivo: Debemos encontrar 2 números dentro de la lista nums que sumen 9
 """
 
 nums = [2,7,11,15]
